@@ -1,1 +1,4 @@
-# bj_gestion comit inicial
+# bj_gestion comit inicial, modulos trabajados,
+Novedades
+Notificaciones
+Matriculas
