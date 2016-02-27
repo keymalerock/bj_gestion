@@ -71,7 +71,7 @@
 <Field FldName="contact_d_repres" FldAlias="0" FldSourceName="" FldSourceTable="" FldSourceField="" FldType="200" FldTypeName="CHAR" NativeDataType="254" FldSupport="1" FldSize="2" FldUniqueIdx="0" FldZeroLen="1" FldReq="0" FldIsPrimaryKey="0" FldAutoIncrement="0" FldAttribute="100" FldMin="" FldMax="" FldErrMsg="" FldValidate="" FldServerValidateArgs="" FldClientValidateArgs="" FldRequired="0" FldPopCalendar="0" FldGenerate="1" FldList="1" FldExport="1" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="0" FldBasicSearch="0" FldExtendedBasicSearch="0" FldRegister="0" FldSrchOpr="LIKE" FldSrchOpr2="" FldDefault="" FldSearchDefault="" FldSearchDefault2="" FldDbDefault="" FldCaption="CONTACTO DEPORTIVO" FldViewTag="FORMATTED TEXT" FldViewThumbnail="0" FldHtmlTag="RADIO" FldHtmlTagReadOnly="0" FldTagSize="30" FldTagMaxLength="2" FldTagHiddenValue="" FldSelectType="Values" FldTagValues="&quot;1&quot;,&quot;Si&quot;|&quot;0&quot;,&quot;No&quot;|" FldTagLnkTbl="" FldTagLnkFld="" FldTagLnkDisplay="" FldTagLnkDisp2="" FldTagLnkDisp3="" FldTagLnkDisp4="" FldTagLnkOrderBy="" FldTagLnkOrderType="" FldTagLnkDistinct="0" FldTagCols="" FldTagRows="" FldTagImgWidth="" FldTagImgHeight="" FldTagAType="" FldTagATarget="" FldTagAPrefix="None" FldTagASuffix="" FldBold="0" FldItalic="0" FldAlign="" FldFmtType="None" FldDtFormat="" FldNumDigits="0" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FileNameFld="" FileTypeFld="" FileSizeFld="" ImageWidthFld="" ImageHeightFld="" FldHrefFld="" FldHrefFldOrig="0" FldStrFunc="" FldUseDHTMLEditor="0" FldMemoMaxLength="0" FldSelectSize="" FldSelectMultiple="0" FldSelectFilter="" FldAutoFillSourceFields="" FldAutoFillTargetFields="" FldParentSelect="" FldSelectFilterFld="" FldParentSelect2="" FldParentSelect3="" FldParentSelect4="" FldSelectFilterFld2="" FldSelectFilterFld3="" FldSelectFilterFld4="" FldSelectAllowAdd="0" FldQuoteS="'" FldQuoteE="'" FldColumnWidth="" FldColumnWrap="1" FldAggregate="" FldGroupBy="0" FldGroupByShowSummary="0" FldOrderBy="0" FldOrder="" FldRptAggSum="0" FldRptAggAvg="0" FldRptAggMin="0" FldRptAggMax="0" FldRepeatColumns="0" FldUploadPath="" FldUploadMultiple="0" FldCheckDuplicate="0" FldPageIndex="1" FldAjax="0" FldAutoUpdateValue="" FldUploadResize="0" FldResizeWidth="0" FldResizeHeight="0" FldMultiUpdate="0" FldTitle="" FldAlt="" FldEditCustomAttributes="" FldViewCustomAttributes="" FldTagACustomAttributes="" FldResizeQuality="75" FldEditTableField="" FldAutoFill="0" FldSelectForceSelection="0" FldMemoCRLFReplace="0" FldTooltipFld="" FldTooltipWidth="0" FldVirtualLookup="0" FldVirtualLookupSearch="0" FldViewTemplate="" FldTagValue1="1" FldTagCaption1="Si" FldTagValue2="0" FldTagCaption2="No"/>
 <Field FldName="st_repres" FldAlias="0" FldSourceName="" FldSourceTable="" FldSourceField="" FldType="202" FldTypeName="ENUM" NativeDataType="247" FldSupport="1" FldSize="8" FldUniqueIdx="0" FldZeroLen="1" FldReq="0" FldIsPrimaryKey="0" FldAutoIncrement="0" FldAttribute="100" FldMin="" FldMax="" FldErrMsg="" FldValidate="" FldServerValidateArgs="" FldClientValidateArgs="" FldRequired="0" FldPopCalendar="0" FldGenerate="1" FldList="1" FldExport="1" FldView="1" FldEdit="1" FldAdd="0" FldAddOpt="1" FldSearch="1" FldBasicSearch="0" FldExtendedBasicSearch="1" FldRegister="0" FldSrchOpr="=" FldSrchOpr2="" FldDefault="&quot;Activo&quot;" FldSearchDefault="" FldSearchDefault2="" FldDbDefault="&quot;Activo&quot;" FldCaption="ESTADO" FldViewTag="FORMATTED TEXT" FldViewThumbnail="0" FldHtmlTag="RADIO" FldHtmlTagReadOnly="0" FldTagSize="30" FldTagMaxLength="8" FldTagHiddenValue="" FldSelectType="Values" FldTagValues="&quot;Inactivo&quot;,&quot;Inactivo&quot;|&quot;Activo&quot;,&quot;Activo&quot;|" FldTagLnkTbl="" FldTagLnkFld="" FldTagLnkDisplay="" FldTagLnkDisp2="" FldTagLnkDisp3="" FldTagLnkDisp4="" FldTagLnkOrderBy="" FldTagLnkOrderType="" FldTagLnkDistinct="0" FldTagCols="" FldTagRows="" FldTagImgWidth="" FldTagImgHeight="" FldTagAType="" FldTagATarget="" FldTagAPrefix="None" FldTagASuffix="" FldBold="0" FldItalic="0" FldAlign="" FldFmtType="None" FldDtFormat="" FldNumDigits="0" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FileNameFld="" FileTypeFld="" FileSizeFld="" ImageWidthFld="" ImageHeightFld="" FldHrefFld="" FldHrefFldOrig="0" FldStrFunc="" FldUseDHTMLEditor="0" FldMemoMaxLength="0" FldSelectSize="" FldSelectMultiple="0" FldSelectFilter="" FldAutoFillSourceFields="" FldAutoFillTargetFields="" FldParentSelect="" FldSelectFilterFld="" FldParentSelect2="" FldParentSelect3="" FldParentSelect4="" FldSelectFilterFld2="" FldSelectFilterFld3="" FldSelectFilterFld4="" FldSelectAllowAdd="0" FldQuoteS="'" FldQuoteE="'" FldColumnWidth="" FldColumnWrap="1" FldAggregate="" FldGroupBy="0" FldGroupByShowSummary="0" FldOrderBy="0" FldOrder="" FldRptAggSum="0" FldRptAggAvg="0" FldRptAggMin="0" FldRptAggMax="0" FldRepeatColumns="0" FldUploadPath="" FldUploadMultiple="0" FldCheckDuplicate="0" FldPageIndex="1" FldAjax="0" FldAutoUpdateValue="" FldUploadResize="0" FldResizeWidth="0" FldResizeHeight="0" FldMultiUpdate="0" FldTitle="" FldAlt="" FldEditCustomAttributes="" FldViewCustomAttributes="" FldTagACustomAttributes="" FldResizeQuality="75" FldEditTableField="" FldAutoFill="0" FldSelectForceSelection="0" FldMemoCRLFReplace="0" FldTooltipFld="" FldTooltipWidth="0" FldVirtualLookup="0" FldVirtualLookupSearch="0" FldViewTemplate="" FldTagValue1="Inactivo" FldTagCaption1="Inactivo" FldTagValue2="Activo" FldTagCaption2="Activo"/>
 </Table>
-<Table TblSchema="" TblName="respuesta" TblType="TABLE" TblGen="1" TblGenList="info=1,list=1,grid=1,gridcls=1,add=1,view=1,edit=1,delete=1" TblList="1" TblView="1" TblInlineEdit="0" TblGridEdit="0" TblEdit="1" TblEditConfirm="0" TblEditCaptcha="0" TblGridAdd="0" TblAdd="1" TblAddReturnPage="_LIST" TblAddOpt="0" TblAddConfirm="0" TblAddCaptcha="0" TblInlineAdd="0" TblInlineCopy="0" TblMultiUpdate="0" TblMultiUpdateConfirm="0" TblAnonymous="0" TblDelete="1" TblCaption="Respuesta a novedades" TblVar="respuesta" TblUpdatable="1" TblSQL="" TblError="" TblSrchType="BASIC" TblSearchHighlight="0" TblSearchColor="" TblSearch="0" TblBasicSearch="0" TblExtendedBasicSearch="1" TblExtSearchFldPerRow="1" TblBasicSearchDefault="" TblBasicSearchTypeDefault="" TblDefault="0" TblCopy="0" TblFilter="(CurrentUserID() != -1 &amp;&amp;  CurrentUserID() != 4)?&quot;`id_empleado`='&quot;.CurrentUserID().&quot;'&quot;:&quot;&quot;;" TblUserIDFld="" TblSecurity="0,&quot;Default&quot;,0" TblUserIDAllow="0" TblExpanded="0" TblLoaded="1" TblRptShowDetails="0" TblRptShowGrandTotal="0" TblCustomSQL="" TblCustomError="" TblRptSrc="" TblRptIndent="" TblUseGlobal="1" TblRecPerPage="35" TblRecPerPageList="" TblPrinterFriendly="0" TblExportHtml="0" TblExportWord="0" TblExportExcel="0" TblExportXml="0" TblExportCsv="0" TblExportEmail="0" TblExportPDF="0" TblExportType="ALL" TblRecPerRow="0" TblMultiDelete="0" TblSortType="1" TblPagerStyle="2" TblTopPageLink="0" TblBottomPageLink="0" TblViewExport="0" TblListExport="1" TblLinkOnLeft="1" TblInlineDelete="0" TblDetailViewPaging="0" TblDetailEditPaging="0" TblAuditTrail="0" TblSendMailOnAdd="0" TblSendMailOnEdit="0" TblSendMailOnDelete="0" TblShowBlankListPage="1" TblDetailShowCount="0" TblDetailAdd="0" TblDetailEdit="0" TblDetailView="0" TblShowMultipleDetails="0" TblEditReturnPage="" TblMultiPageAdd="0" TblMultiPageEdit="0" TblMultiPageView="0" TblMultiPageSearch="0" TblCheckConcurrentUpdate="0" TblUserLevelPriv="1" TblDisplayRowCount="0" TblUseButtonsForLinks="0" TblUseDropDownForAction="0" TblUseDropDownForListOptions="0" TblMultiPageType="" TblUseDropDownForExport="0" TblPageCaption1="">
+<Table TblSchema="" TblName="respuesta" TblType="TABLE" TblGen="1" TblGenList="info=0,list=0,grid=0,gridcls=0,add=0,view=0,edit=0,delete=0" TblList="1" TblView="1" TblInlineEdit="0" TblGridEdit="0" TblEdit="1" TblEditConfirm="0" TblEditCaptcha="0" TblGridAdd="0" TblAdd="1" TblAddReturnPage="" TblAddOpt="0" TblAddConfirm="0" TblAddCaptcha="0" TblInlineAdd="0" TblInlineCopy="0" TblMultiUpdate="0" TblMultiUpdateConfirm="0" TblAnonymous="0" TblDelete="1" TblCaption="Respuesta a novedades" TblVar="respuesta" TblUpdatable="1" TblSQL="" TblError="" TblSrchType="BASIC" TblSearchHighlight="0" TblSearchColor="" TblSearch="0" TblBasicSearch="0" TblExtendedBasicSearch="1" TblExtSearchFldPerRow="1" TblBasicSearchDefault="" TblBasicSearchTypeDefault="" TblDefault="0" TblCopy="0" TblFilter="(CurrentUserID() != -1 &amp;&amp;  CurrentUserID() != 4)?&quot;`id_empleado`='&quot;.CurrentUserID().&quot;'&quot;:&quot;&quot;;" TblUserIDFld="" TblSecurity="0,&quot;Default&quot;,0" TblUserIDAllow="0" TblExpanded="0" TblLoaded="1" TblRptShowDetails="0" TblRptShowGrandTotal="0" TblCustomSQL="" TblCustomError="" TblRptSrc="" TblRptIndent="" TblUseGlobal="1" TblRecPerPage="35" TblRecPerPageList="" TblPrinterFriendly="0" TblExportHtml="0" TblExportWord="0" TblExportExcel="0" TblExportXml="0" TblExportCsv="0" TblExportEmail="0" TblExportPDF="0" TblExportType="ALL" TblRecPerRow="0" TblMultiDelete="0" TblSortType="1" TblPagerStyle="2" TblTopPageLink="0" TblBottomPageLink="0" TblViewExport="0" TblListExport="1" TblLinkOnLeft="1" TblInlineDelete="0" TblDetailViewPaging="0" TblDetailEditPaging="0" TblAuditTrail="0" TblSendMailOnAdd="0" TblSendMailOnEdit="0" TblSendMailOnDelete="0" TblShowBlankListPage="0" TblDetailShowCount="0" TblDetailAdd="0" TblDetailEdit="0" TblDetailView="0" TblShowMultipleDetails="0" TblEditReturnPage="_EDIT" TblMultiPageAdd="0" TblMultiPageEdit="0" TblMultiPageView="0" TblMultiPageSearch="0" TblCheckConcurrentUpdate="0" TblUserLevelPriv="1" TblDisplayRowCount="0" TblUseButtonsForLinks="0" TblUseDropDownForAction="0" TblUseDropDownForListOptions="0" TblMultiPageType="" TblUseDropDownForExport="0" TblPageCaption1="">
 <Field FldName="id_respuesta" FldAlias="0" FldSourceName="" FldSourceTable="" FldSourceField="" FldType="3" FldTypeName="INT" NativeDataType="3" FldSupport="1" FldSize="10" FldUniqueIdx="0" FldZeroLen="1" FldReq="0" FldIsPrimaryKey="1" FldAutoIncrement="1" FldAttribute="96" FldMin="" FldMax="" FldErrMsg="" FldValidate="INTEGER" FldServerValidateArgs="" FldClientValidateArgs="" FldRequired="0" FldPopCalendar="0" FldGenerate="1" FldList="1" FldExport="1" FldView="1" FldEdit="0" FldAdd="0" FldAddOpt="0" FldSearch="1" FldBasicSearch="0" FldExtendedBasicSearch="0" FldRegister="0" FldSrchOpr="=" FldSrchOpr2="" FldDefault="" FldSearchDefault="" FldSearchDefault2="" FldDbDefault="" FldCaption="ID" FldViewTag="FORMATTED TEXT" FldViewThumbnail="0" FldHtmlTag="NO" FldHtmlTagReadOnly="0" FldTagSize="" FldTagMaxLength="" FldTagHiddenValue="" FldSelectType="Values" FldTagValues="" FldTagLnkTbl="" FldTagLnkFld="" FldTagLnkDisplay="" FldTagLnkDisp2="" FldTagLnkDisp3="" FldTagLnkDisp4="" FldTagLnkOrderBy="" FldTagLnkOrderType="" FldTagLnkDistinct="0" FldTagCols="" FldTagRows="" FldTagImgWidth="" FldTagImgHeight="" FldTagAType="" FldTagATarget="" FldTagAPrefix="None" FldTagASuffix="" FldBold="0" FldItalic="0" FldAlign="" FldFmtType="None" FldDtFormat="" FldNumDigits="0" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FileNameFld="" FileTypeFld="" FileSizeFld="" ImageWidthFld="" ImageHeightFld="" FldHrefFld="" FldHrefFldOrig="0" FldStrFunc="" FldUseDHTMLEditor="0" FldMemoMaxLength="0" FldSelectSize="" FldSelectMultiple="0" FldSelectFilter="" FldAutoFillSourceFields="" FldAutoFillTargetFields="" FldParentSelect="" FldSelectFilterFld="" FldParentSelect2="" FldParentSelect3="" FldParentSelect4="" FldSelectFilterFld2="" FldSelectFilterFld3="" FldSelectFilterFld4="" FldSelectAllowAdd="0" FldQuoteS="" FldQuoteE="" FldColumnWidth="" FldColumnWrap="1" FldAggregate="" FldGroupBy="0" FldGroupByShowSummary="0" FldOrderBy="1" FldOrder="DESC" FldRptAggSum="0" FldRptAggAvg="0" FldRptAggMin="0" FldRptAggMax="0" FldRepeatColumns="0" FldUploadPath="" FldUploadMultiple="0" FldCheckDuplicate="0" FldPageIndex="1" FldAjax="0" FldAutoUpdateValue="" FldUploadResize="0" FldResizeWidth="0" FldResizeHeight="0" FldMultiUpdate="0" FldTitle="" FldAlt="" FldEditCustomAttributes="" FldViewCustomAttributes="" FldTagACustomAttributes="" FldResizeQuality="75" FldEditTableField="" FldAutoFill="0" FldSelectForceSelection="0" FldMemoCRLFReplace="0" FldTooltipFld="" FldTooltipWidth="0" FldVirtualLookup="0" FldVirtualLookupSearch="0" FldViewTemplate=""/>
 <Field FldName="id_novedad" FldAlias="0" FldSourceName="" FldSourceTable="" FldSourceField="" FldType="3" FldTypeName="INT" NativeDataType="3" FldSupport="1" FldSize="10" FldUniqueIdx="0" FldZeroLen="1" FldReq="1" FldIsPrimaryKey="0" FldAutoIncrement="0" FldAttribute="4" FldMin="" FldMax="" FldErrMsg="" FldValidate="INTEGER" FldServerValidateArgs="" FldClientValidateArgs="" FldRequired="1" FldPopCalendar="0" FldGenerate="1" FldList="1" FldExport="1" FldView="1" FldEdit="0" FldAdd="1" FldAddOpt="1" FldSearch="1" FldBasicSearch="0" FldExtendedBasicSearch="0" FldRegister="0" FldSrchOpr="=" FldSrchOpr2="" FldDefault="" FldSearchDefault="" FldSearchDefault2="" FldDbDefault="" FldCaption="ID NOVEDAD" FldViewTag="FORMATTED TEXT" FldViewThumbnail="0" FldHtmlTag="TEXT" FldHtmlTagReadOnly="0" FldTagSize="30" FldTagMaxLength="" FldTagHiddenValue="" FldSelectType="Values" FldTagValues="" FldTagLnkTbl="" FldTagLnkFld="" FldTagLnkDisplay="" FldTagLnkDisp2="" FldTagLnkDisp3="" FldTagLnkDisp4="" FldTagLnkOrderBy="" FldTagLnkOrderType="" FldTagLnkDistinct="0" FldTagCols="" FldTagRows="" FldTagImgWidth="" FldTagImgHeight="" FldTagAType="" FldTagATarget="" FldTagAPrefix="None" FldTagASuffix="" FldBold="0" FldItalic="0" FldAlign="" FldFmtType="None" FldDtFormat="" FldNumDigits="0" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FileNameFld="" FileTypeFld="" FileSizeFld="" ImageWidthFld="" ImageHeightFld="" FldHrefFld="" FldHrefFldOrig="0" FldStrFunc="" FldUseDHTMLEditor="0" FldMemoMaxLength="0" FldSelectSize="" FldSelectMultiple="0" FldSelectFilter="" FldAutoFillSourceFields="" FldAutoFillTargetFields="" FldParentSelect="" FldSelectFilterFld="" FldParentSelect2="" FldParentSelect3="" FldParentSelect4="" FldSelectFilterFld2="" FldSelectFilterFld3="" FldSelectFilterFld4="" FldSelectAllowAdd="0" FldQuoteS="" FldQuoteE="" FldColumnWidth="" FldColumnWrap="1" FldAggregate="" FldGroupBy="0" FldGroupByShowSummary="0" FldOrderBy="0" FldOrder="" FldRptAggSum="0" FldRptAggAvg="0" FldRptAggMin="0" FldRptAggMax="0" FldRepeatColumns="0" FldUploadPath="" FldUploadMultiple="0" FldCheckDuplicate="0" FldPageIndex="1" FldAjax="0" FldAutoUpdateValue="" FldUploadResize="0" FldResizeWidth="0" FldResizeHeight="0" FldMultiUpdate="0" FldTitle="" FldAlt="" FldEditCustomAttributes="" FldViewCustomAttributes="" FldTagACustomAttributes="" FldResizeQuality="75" FldEditTableField="" FldAutoFill="0" FldSelectForceSelection="0" FldMemoCRLFReplace="0" FldTooltipFld="" FldTooltipWidth="0" FldVirtualLookup="0" FldVirtualLookupSearch="0" FldViewTemplate=""/>
 <Field FldName="id_empleado" FldAlias="0" FldSourceName="" FldSourceTable="" FldSourceField="" FldType="3" FldTypeName="INT" NativeDataType="3" FldSupport="1" FldSize="10" FldUniqueIdx="0" FldZeroLen="1" FldReq="0" FldIsPrimaryKey="0" FldAutoIncrement="0" FldAttribute="100" FldMin="" FldMax="" FldErrMsg="" FldValidate="INTEGER" FldServerValidateArgs="" FldClientValidateArgs="" FldRequired="1" FldPopCalendar="0" FldGenerate="1" FldList="1" FldExport="1" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldBasicSearch="0" FldExtendedBasicSearch="0" FldRegister="0" FldSrchOpr="=" FldSrchOpr2="" FldDefault="" FldSearchDefault="" FldSearchDefault2="" FldDbDefault="" FldCaption="EMPLEADO" FldViewTag="FORMATTED TEXT" FldViewThumbnail="0" FldHtmlTag="SELECT" FldHtmlTagReadOnly="0" FldTagSize="30" FldTagMaxLength="" FldTagHiddenValue="" FldSelectType="Table" FldTagValues="" FldTagLnkTbl="empleados" FldTagLnkFld="id_empleado" FldTagLnkDisplay="dociden_empleado" FldTagLnkDisp2="nomb_empleado" FldTagLnkDisp3="" FldTagLnkDisp4="" FldTagLnkOrderBy="nomb_empleado" FldTagLnkOrderType="" FldTagLnkDistinct="0" FldTagCols="" FldTagRows="" FldTagImgWidth="" FldTagImgHeight="" FldTagAType="" FldTagATarget="" FldTagAPrefix="None" FldTagASuffix="" FldBold="0" FldItalic="0" FldAlign="" FldFmtType="None" FldDtFormat="" FldNumDigits="0" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FileNameFld="" FileTypeFld="" FileSizeFld="" ImageWidthFld="" ImageHeightFld="" FldHrefFld="" FldHrefFldOrig="0" FldStrFunc="" FldUseDHTMLEditor="0" FldMemoMaxLength="0" FldSelectSize="" FldSelectMultiple="0" FldSelectFilter="" FldAutoFillSourceFields="" FldAutoFillTargetFields="" FldParentSelect="" FldSelectFilterFld="" FldParentSelect2="" FldParentSelect3="" FldParentSelect4="" FldSelectFilterFld2="" FldSelectFilterFld3="" FldSelectFilterFld4="" FldSelectAllowAdd="0" FldQuoteS="" FldQuoteE="" FldColumnWidth="" FldColumnWrap="1" FldAggregate="" FldGroupBy="0" FldGroupByShowSummary="0" FldOrderBy="0" FldOrder="" FldRptAggSum="0" FldRptAggAvg="0" FldRptAggMin="0" FldRptAggMax="0" FldRepeatColumns="0" FldUploadPath="" FldUploadMultiple="0" FldCheckDuplicate="0" FldPageIndex="1" FldAjax="0" FldAutoUpdateValue="" FldUploadResize="0" FldResizeWidth="0" FldResizeHeight="0" FldMultiUpdate="0" FldTitle="" FldAlt="" FldEditCustomAttributes="" FldViewCustomAttributes="" FldTagACustomAttributes="" FldResizeQuality="75" FldEditTableField="" FldAutoFill="0" FldSelectForceSelection="0" FldMemoCRLFReplace="0" FldTooltipFld="" FldTooltipWidth="0" FldVirtualLookup="0" FldVirtualLookupSearch="0" FldViewTemplate="" FldParentSelect1="" FldSelectFilterFld1=""/>
@@ -123,7 +123,7 @@
 <Field FldName="doc3_matri" FldAlias="0" FldSourceName="" FldSourceTable="" FldSourceField="" FldType="200" FldTypeName="CHAR" NativeDataType="254" FldSupport="1" FldSize="2" FldUniqueIdx="0" FldZeroLen="1" FldReq="0" FldIsPrimaryKey="0" FldAutoIncrement="0" FldAttribute="100" FldMin="" FldMax="" FldErrMsg="" FldValidate="" FldServerValidateArgs="" FldClientValidateArgs="" FldRequired="0" FldPopCalendar="0" FldGenerate="1" FldList="0" FldExport="1" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="0" FldBasicSearch="0" FldExtendedBasicSearch="0" FldRegister="0" FldSrchOpr="LIKE" FldSrchOpr2="" FldDefault="" FldSearchDefault="" FldSearchDefault2="" FldDbDefault="" FldCaption="4 Fotos recientes 3x4 con fondo azul" FldViewTag="FORMATTED TEXT" FldViewThumbnail="0" FldHtmlTag="CHECKBOX" FldHtmlTagReadOnly="0" FldTagSize="30" FldTagMaxLength="2" FldTagHiddenValue="" FldSelectType="Values" FldTagValues="&quot;1&quot;,&quot;Si&quot;|" FldTagLnkTbl="" FldTagLnkFld="" FldTagLnkDisplay="" FldTagLnkDisp2="" FldTagLnkDisp3="" FldTagLnkDisp4="" FldTagLnkOrderBy="" FldTagLnkOrderType="" FldTagLnkDistinct="0" FldTagCols="" FldTagRows="" FldTagImgWidth="" FldTagImgHeight="" FldTagAType="" FldTagATarget="" FldTagAPrefix="None" FldTagASuffix="" FldBold="0" FldItalic="0" FldAlign="" FldFmtType="None" FldDtFormat="" FldNumDigits="0" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FileNameFld="" FileTypeFld="" FileSizeFld="" ImageWidthFld="" ImageHeightFld="" FldHrefFld="" FldHrefFldOrig="0" FldStrFunc="" FldUseDHTMLEditor="0" FldMemoMaxLength="0" FldSelectSize="" FldSelectMultiple="0" FldSelectFilter="" FldAutoFillSourceFields="" FldAutoFillTargetFields="" FldParentSelect="" FldSelectFilterFld="" FldParentSelect2="" FldParentSelect3="" FldParentSelect4="" FldSelectFilterFld2="" FldSelectFilterFld3="" FldSelectFilterFld4="" FldSelectAllowAdd="0" FldQuoteS="'" FldQuoteE="'" FldColumnWidth="" FldColumnWrap="1" FldAggregate="" FldGroupBy="0" FldGroupByShowSummary="0" FldOrderBy="0" FldOrder="" FldRptAggSum="0" FldRptAggAvg="0" FldRptAggMin="0" FldRptAggMax="0" FldRepeatColumns="0" FldUploadPath="" FldUploadMultiple="0" FldCheckDuplicate="0" FldPageIndex="1" FldAjax="0" FldAutoUpdateValue="" FldUploadResize="0" FldResizeWidth="0" FldResizeHeight="0" FldMultiUpdate="0" FldTitle="" FldAlt="" FldEditCustomAttributes="" FldViewCustomAttributes="" FldTagACustomAttributes="" FldResizeQuality="75" FldEditTableField="" FldAutoFill="0" FldSelectForceSelection="0" FldMemoCRLFReplace="0" FldTooltipFld="" FldTooltipWidth="0" FldVirtualLookup="0" FldVirtualLookupSearch="0" FldViewTemplate="" FldTagValue1="1" FldTagCaption1="Si"/>
 <Field FldName="doc4_matri" FldAlias="0" FldSourceName="" FldSourceTable="" FldSourceField="" FldType="200" FldTypeName="CHAR" NativeDataType="254" FldSupport="1" FldSize="2" FldUniqueIdx="0" FldZeroLen="1" FldReq="0" FldIsPrimaryKey="0" FldAutoIncrement="0" FldAttribute="100" FldMin="" FldMax="" FldErrMsg="" FldValidate="" FldServerValidateArgs="" FldClientValidateArgs="" FldRequired="0" FldPopCalendar="0" FldGenerate="1" FldList="1" FldExport="1" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="0" FldBasicSearch="0" FldExtendedBasicSearch="0" FldRegister="0" FldSrchOpr="LIKE" FldSrchOpr2="" FldDefault="" FldSearchDefault="" FldSearchDefault2="" FldDbDefault="" FldCaption="Fotocopia del documento de identidad ampliada al 150%" FldViewTag="FORMATTED TEXT" FldViewThumbnail="0" FldHtmlTag="CHECKBOX" FldHtmlTagReadOnly="0" FldTagSize="30" FldTagMaxLength="2" FldTagHiddenValue="" FldSelectType="Values" FldTagValues="&quot;1&quot;,&quot;Si&quot;|&quot;&quot;,&quot;&quot;|" FldTagLnkTbl="" FldTagLnkFld="" FldTagLnkDisplay="" FldTagLnkDisp2="" FldTagLnkDisp3="" FldTagLnkDisp4="" FldTagLnkOrderBy="" FldTagLnkOrderType="" FldTagLnkDistinct="0" FldTagCols="" FldTagRows="" FldTagImgWidth="" FldTagImgHeight="" FldTagAType="" FldTagATarget="" FldTagAPrefix="None" FldTagASuffix="" FldBold="0" FldItalic="0" FldAlign="" FldFmtType="None" FldDtFormat="" FldNumDigits="0" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FileNameFld="" FileTypeFld="" FileSizeFld="" ImageWidthFld="" ImageHeightFld="" FldHrefFld="" FldHrefFldOrig="0" FldStrFunc="" FldUseDHTMLEditor="0" FldMemoMaxLength="0" FldSelectSize="" FldSelectMultiple="0" FldSelectFilter="" FldAutoFillSourceFields="" FldAutoFillTargetFields="" FldParentSelect="" FldSelectFilterFld="" FldParentSelect2="" FldParentSelect3="" FldParentSelect4="" FldSelectFilterFld2="" FldSelectFilterFld3="" FldSelectFilterFld4="" FldSelectAllowAdd="0" FldQuoteS="'" FldQuoteE="'" FldColumnWidth="" FldColumnWrap="1" FldAggregate="" FldGroupBy="0" FldGroupByShowSummary="0" FldOrderBy="0" FldOrder="" FldRptAggSum="0" FldRptAggAvg="0" FldRptAggMin="0" FldRptAggMax="0" FldRepeatColumns="0" FldUploadPath="" FldUploadMultiple="0" FldCheckDuplicate="0" FldPageIndex="1" FldAjax="0" FldAutoUpdateValue="" FldUploadResize="0" FldResizeWidth="0" FldResizeHeight="0" FldMultiUpdate="0" FldTitle="" FldAlt="" FldEditCustomAttributes="" FldViewCustomAttributes="" FldTagACustomAttributes="" FldResizeQuality="75" FldEditTableField="" FldAutoFill="0" FldSelectForceSelection="0" FldMemoCRLFReplace="0" FldTooltipFld="" FldTooltipWidth="0" FldVirtualLookup="0" FldVirtualLookupSearch="0" FldViewTemplate="" FldTagValue1="1" FldTagCaption1="Si"/>
 </Table>
-<Table TblSchema="" TblName="notificacion" TblType="TABLE" TblGen="1" TblGenList="info=0,list=0,add=0,view=0,edit=0" TblList="1" TblView="1" TblInlineEdit="0" TblGridEdit="0" TblEdit="1" TblEditConfirm="0" TblEditCaptcha="0" TblGridAdd="0" TblAdd="1" TblAddReturnPage="" TblAddOpt="0" TblAddConfirm="0" TblAddCaptcha="0" TblInlineAdd="0" TblInlineCopy="0" TblMultiUpdate="0" TblMultiUpdateConfirm="0" TblAnonymous="0" TblDelete="0" TblCaption="NOTIFICACION" TblVar="notificacion" TblUpdatable="1" TblSQL="" TblError="" TblSrchType="BASIC" TblSearchHighlight="0" TblSearchColor="" TblSearch="0" TblBasicSearch="0" TblExtendedBasicSearch="1" TblExtSearchFldPerRow="0" TblBasicSearchDefault="" TblBasicSearchTypeDefault="" TblDefault="0" TblCopy="0" TblFilter="" TblUserIDFld="" TblSecurity="0,&quot;Default&quot;,0" TblUserIDAllow="0" TblExpanded="0" TblLoaded="1" TblRptShowDetails="0" TblRptShowGrandTotal="0" TblCustomSQL="" TblCustomError="" TblRptSrc="" TblRptIndent="" TblUseGlobal="1" TblRecPerPage="20" TblRecPerPageList="" TblPrinterFriendly="0" TblExportHtml="0" TblExportWord="0" TblExportExcel="0" TblExportXml="0" TblExportCsv="0" TblExportEmail="0" TblExportPDF="0" TblExportType="" TblRecPerRow="0" TblMultiDelete="0" TblSortType="0" TblPagerStyle="2" TblTopPageLink="0" TblBottomPageLink="0" TblViewExport="0" TblListExport="0" TblLinkOnLeft="0" TblInlineDelete="0" TblDetailViewPaging="0" TblDetailEditPaging="0" TblAuditTrail="0" TblSendMailOnAdd="0" TblSendMailOnEdit="0" TblSendMailOnDelete="0" TblShowBlankListPage="0" TblDetailShowCount="0" TblDetailAdd="0" TblDetailEdit="0" TblDetailView="0" TblShowMultipleDetails="0" TblEditReturnPage="" TblMultiPageAdd="0" TblMultiPageEdit="0" TblMultiPageView="0" TblMultiPageSearch="0" TblCheckConcurrentUpdate="0" TblUserLevelPriv="1" TblDisplayRowCount="0" TblUseButtonsForLinks="1" TblUseDropDownForAction="1" TblUseDropDownForListOptions="1" TblMultiPageType="" TblUseDropDownForExport="1" TblPageCaption1="">
+<Table TblSchema="" TblName="notificacion" TblType="TABLE" TblGen="1" TblGenList="info=1,list=1,add=1,view=1,edit=1" TblList="1" TblView="1" TblInlineEdit="0" TblGridEdit="0" TblEdit="1" TblEditConfirm="0" TblEditCaptcha="0" TblGridAdd="0" TblAdd="1" TblAddReturnPage="" TblAddOpt="0" TblAddConfirm="0" TblAddCaptcha="0" TblInlineAdd="0" TblInlineCopy="0" TblMultiUpdate="0" TblMultiUpdateConfirm="0" TblAnonymous="0" TblDelete="0" TblCaption="NOTIFICACION" TblVar="notificacion" TblUpdatable="1" TblSQL="" TblError="" TblSrchType="BASIC" TblSearchHighlight="0" TblSearchColor="" TblSearch="0" TblBasicSearch="0" TblExtendedBasicSearch="1" TblExtSearchFldPerRow="0" TblBasicSearchDefault="" TblBasicSearchTypeDefault="" TblDefault="0" TblCopy="0" TblFilter="" TblUserIDFld="" TblSecurity="0,&quot;Default&quot;,0" TblUserIDAllow="0" TblExpanded="0" TblLoaded="1" TblRptShowDetails="0" TblRptShowGrandTotal="0" TblCustomSQL="" TblCustomError="" TblRptSrc="" TblRptIndent="" TblUseGlobal="1" TblRecPerPage="20" TblRecPerPageList="" TblPrinterFriendly="0" TblExportHtml="0" TblExportWord="0" TblExportExcel="0" TblExportXml="0" TblExportCsv="0" TblExportEmail="0" TblExportPDF="0" TblExportType="" TblRecPerRow="0" TblMultiDelete="0" TblSortType="0" TblPagerStyle="2" TblTopPageLink="0" TblBottomPageLink="0" TblViewExport="0" TblListExport="0" TblLinkOnLeft="0" TblInlineDelete="0" TblDetailViewPaging="0" TblDetailEditPaging="0" TblAuditTrail="0" TblSendMailOnAdd="0" TblSendMailOnEdit="0" TblSendMailOnDelete="0" TblShowBlankListPage="0" TblDetailShowCount="0" TblDetailAdd="0" TblDetailEdit="0" TblDetailView="0" TblShowMultipleDetails="0" TblEditReturnPage="" TblMultiPageAdd="0" TblMultiPageEdit="0" TblMultiPageView="0" TblMultiPageSearch="0" TblCheckConcurrentUpdate="0" TblUserLevelPriv="1" TblDisplayRowCount="0" TblUseButtonsForLinks="1" TblUseDropDownForAction="1" TblUseDropDownForListOptions="1" TblMultiPageType="" TblUseDropDownForExport="1" TblPageCaption1="">
 <Field FldName="id_notificacion" FldAlias="0" FldSourceName="" FldSourceTable="" FldSourceField="" FldType="3" FldTypeName="INT" NativeDataType="3" FldSupport="1" FldSize="10" FldUniqueIdx="0" FldZeroLen="1" FldReq="0" FldIsPrimaryKey="1" FldAutoIncrement="1" FldAttribute="96" FldMin="" FldMax="" FldErrMsg="" FldValidate="INTEGER" FldServerValidateArgs="" FldClientValidateArgs="" FldRequired="0" FldPopCalendar="0" FldGenerate="1" FldList="1" FldExport="1" FldView="1" FldEdit="0" FldAdd="0" FldAddOpt="0" FldSearch="1" FldBasicSearch="0" FldExtendedBasicSearch="1" FldRegister="0" FldSrchOpr="=" FldSrchOpr2="" FldDefault="" FldSearchDefault="" FldSearchDefault2="" FldDbDefault="" FldCaption="ID" FldViewTag="FORMATTED TEXT" FldViewThumbnail="0" FldHtmlTag="NO" FldHtmlTagReadOnly="0" FldTagSize="" FldTagMaxLength="" FldTagHiddenValue="" FldSelectType="Values" FldTagValues="" FldTagLnkTbl="" FldTagLnkFld="" FldTagLnkDisplay="" FldTagLnkDisp2="" FldTagLnkDisp3="" FldTagLnkDisp4="" FldTagLnkOrderBy="" FldTagLnkOrderType="" FldTagLnkDistinct="0" FldTagCols="" FldTagRows="" FldTagImgWidth="" FldTagImgHeight="" FldTagAType="" FldTagATarget="" FldTagAPrefix="None" FldTagASuffix="" FldBold="0" FldItalic="0" FldAlign="" FldFmtType="None" FldDtFormat="" FldNumDigits="0" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FileNameFld="" FileTypeFld="" FileSizeFld="" ImageWidthFld="" ImageHeightFld="" FldHrefFld="" FldHrefFldOrig="0" FldStrFunc="" FldUseDHTMLEditor="0" FldMemoMaxLength="0" FldSelectSize="" FldSelectMultiple="0" FldSelectFilter="" FldAutoFillSourceFields="" FldAutoFillTargetFields="" FldParentSelect="" FldSelectFilterFld="" FldParentSelect2="" FldParentSelect3="" FldParentSelect4="" FldSelectFilterFld2="" FldSelectFilterFld3="" FldSelectFilterFld4="" FldSelectAllowAdd="0" FldQuoteS="" FldQuoteE="" FldColumnWidth="" FldColumnWrap="1" FldAggregate="" FldGroupBy="0" FldGroupByShowSummary="0" FldOrderBy="0" FldOrder="" FldRptAggSum="0" FldRptAggAvg="0" FldRptAggMin="0" FldRptAggMax="0" FldRepeatColumns="0" FldUploadPath="" FldUploadMultiple="0" FldCheckDuplicate="0" FldPageIndex="1" FldAjax="0" FldAutoUpdateValue="" FldUploadResize="0" FldResizeWidth="0" FldResizeHeight="0" FldMultiUpdate="0" FldTitle="" FldAlt="" FldEditCustomAttributes="" FldViewCustomAttributes="" FldTagACustomAttributes="" FldResizeQuality="75" FldEditTableField="" FldAutoFill="0" FldSelectForceSelection="0" FldMemoCRLFReplace="0" FldTooltipFld="" FldTooltipWidth="0" FldVirtualLookup="0" FldVirtualLookupSearch="0" FldViewTemplate=""/>
 <Field FldName="obs_noti" FldAlias="0" FldSourceName="" FldSourceTable="" FldSourceField="" FldType="201" FldTypeName="TEXT" NativeDataType="252" FldSupport="1" FldSize="65535" FldUniqueIdx="0" FldZeroLen="1" FldReq="0" FldIsPrimaryKey="0" FldAutoIncrement="0" FldAttribute="100" FldMin="" FldMax="" FldErrMsg="" FldValidate="" FldServerValidateArgs="" FldClientValidateArgs="" FldRequired="1" FldPopCalendar="0" FldGenerate="1" FldList="0" FldExport="0" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldBasicSearch="0" FldExtendedBasicSearch="0" FldRegister="0" FldSrchOpr="LIKE" FldSrchOpr2="" FldDefault="" FldSearchDefault="" FldSearchDefault2="" FldDbDefault="" FldCaption="OBSERVACION" FldViewTag="FORMATTED TEXT" FldViewThumbnail="0" FldHtmlTag="TEXTAREA" FldHtmlTagReadOnly="0" FldTagSize="" FldTagMaxLength="" FldTagHiddenValue="" FldSelectType="Values" FldTagValues="" FldTagLnkTbl="" FldTagLnkFld="" FldTagLnkDisplay="" FldTagLnkDisp2="" FldTagLnkDisp3="" FldTagLnkDisp4="" FldTagLnkOrderBy="" FldTagLnkOrderType="" FldTagLnkDistinct="0" FldTagCols="35" FldTagRows="4" FldTagImgWidth="" FldTagImgHeight="" FldTagAType="" FldTagATarget="" FldTagAPrefix="None" FldTagASuffix="" FldBold="0" FldItalic="0" FldAlign="" FldFmtType="None" FldDtFormat="" FldNumDigits="0" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FileNameFld="" FileTypeFld="" FileSizeFld="" ImageWidthFld="" ImageHeightFld="" FldHrefFld="" FldHrefFldOrig="0" FldStrFunc="" FldUseDHTMLEditor="0" FldMemoMaxLength="0" FldSelectSize="" FldSelectMultiple="0" FldSelectFilter="" FldAutoFillSourceFields="" FldAutoFillTargetFields="" FldParentSelect="" FldSelectFilterFld="" FldParentSelect2="" FldParentSelect3="" FldParentSelect4="" FldSelectFilterFld2="" FldSelectFilterFld3="" FldSelectFilterFld4="" FldSelectAllowAdd="0" FldQuoteS="'" FldQuoteE="'" FldColumnWidth="" FldColumnWrap="1" FldAggregate="" FldGroupBy="0" FldGroupByShowSummary="0" FldOrderBy="0" FldOrder="" FldRptAggSum="0" FldRptAggAvg="0" FldRptAggMin="0" FldRptAggMax="0" FldRepeatColumns="0" FldUploadPath="" FldUploadMultiple="0" FldCheckDuplicate="0" FldPageIndex="1" FldAjax="0" FldAutoUpdateValue="" FldUploadResize="0" FldResizeWidth="0" FldResizeHeight="0" FldMultiUpdate="1" FldTitle="" FldAlt="" FldEditCustomAttributes="" FldViewCustomAttributes="" FldTagACustomAttributes="" FldResizeQuality="75" FldEditTableField="" FldAutoFill="0" FldSelectForceSelection="0" FldMemoCRLFReplace="0" FldTooltipFld="" FldTooltipWidth="0" FldVirtualLookup="0" FldVirtualLookupSearch="0" FldViewTemplate=""/>
 <Field FldName="st_noti" FldAlias="0" FldSourceName="" FldSourceTable="" FldSourceField="" FldType="16" FldTypeName="TINYINT" NativeDataType="1" FldSupport="1" FldSize="2" FldUniqueIdx="0" FldZeroLen="1" FldReq="0" FldIsPrimaryKey="0" FldAutoIncrement="0" FldAttribute="100" FldMin="" FldMax="" FldErrMsg="" FldValidate="INTEGER" FldServerValidateArgs="" FldClientValidateArgs="" FldRequired="1" FldPopCalendar="0" FldGenerate="1" FldList="1" FldExport="1" FldView="1" FldEdit="1" FldAdd="1" FldAddOpt="1" FldSearch="1" FldBasicSearch="0" FldExtendedBasicSearch="1" FldRegister="0" FldSrchOpr="=" FldSrchOpr2="" FldDefault="" FldSearchDefault="" FldSearchDefault2="" FldDbDefault="" FldCaption="TIPO DE NOTIFICACION" FldViewTag="FORMATTED TEXT" FldViewThumbnail="0" FldHtmlTag="SELECT" FldHtmlTagReadOnly="0" FldTagSize="30" FldTagMaxLength="" FldTagHiddenValue="" FldSelectType="Values" FldTagValues="&quot;1&quot;,&quot;INFORMATIVO&quot;|&quot;2&quot;,&quot;NEGATIVA&quot;|" FldTagLnkTbl="" FldTagLnkFld="" FldTagLnkDisplay="" FldTagLnkDisp2="" FldTagLnkDisp3="" FldTagLnkDisp4="" FldTagLnkOrderBy="" FldTagLnkOrderType="" FldTagLnkDistinct="0" FldTagCols="" FldTagRows="" FldTagImgWidth="" FldTagImgHeight="" FldTagAType="" FldTagATarget="" FldTagAPrefix="None" FldTagASuffix="" FldBold="0" FldItalic="0" FldAlign="" FldFmtType="None" FldDtFormat="" FldNumDigits="0" FldIncLeadDigit="-2" FldUseParen="-2" FldGpDigits="-2" FileNameFld="" FileTypeFld="" FileSizeFld="" ImageWidthFld="" ImageHeightFld="" FldHrefFld="" FldHrefFldOrig="0" FldStrFunc="" FldUseDHTMLEditor="0" FldMemoMaxLength="0" FldSelectSize="" FldSelectMultiple="0" FldSelectFilter="" FldAutoFillSourceFields="" FldAutoFillTargetFields="" FldParentSelect="" FldSelectFilterFld="" FldParentSelect2="" FldParentSelect3="" FldParentSelect4="" FldSelectFilterFld2="" FldSelectFilterFld3="" FldSelectFilterFld4="" FldSelectAllowAdd="0" FldQuoteS="" FldQuoteE="" FldColumnWidth="" FldColumnWrap="1" FldAggregate="" FldGroupBy="0" FldGroupByShowSummary="0" FldOrderBy="0" FldOrder="" FldRptAggSum="0" FldRptAggAvg="0" FldRptAggMin="0" FldRptAggMax="0" FldRepeatColumns="0" FldUploadPath="" FldUploadMultiple="0" FldCheckDuplicate="0" FldPageIndex="1" FldAjax="0" FldAutoUpdateValue="" FldUploadResize="0" FldResizeWidth="0" FldResizeHeight="0" FldMultiUpdate="1" FldTitle="" FldAlt="" FldEditCustomAttributes="" FldViewCustomAttributes="" FldTagACustomAttributes="" FldResizeQuality="75" FldEditTableField="" FldAutoFill="0" FldSelectForceSelection="0" FldMemoCRLFReplace="0" FldTooltipFld="" FldTooltipWidth="0" FldVirtualLookup="0" FldVirtualLookupSearch="0" FldViewTemplate="" FldTagValue1="1" FldTagCaption1="INFORMATIVO" FldTagValue2="2" FldTagCaption2="NEGATIVA"/>
@@ -190,7 +190,7 @@ function Page_Load() {
 ]]>
 </CustomScript>
 <CustomScript ScriptType="Server" ScriptCodeType="Global" ScriptName="Page_Head" ScriptCtrlID="" ScriptL1Key="" ScriptL2Key="">
-<![CDATA[// mostrar datos de sesion
+<![CDATA[// mostrar datos de sesion   
 	if (!empty(CurrentUserID())) {
 		 echo '<div style="background-color:#ccc"><strong><font color="red">NOMBRE '.CurrentUserName().' ID '.CurrentUserID().'</font></strong></div>';
 	
@@ -293,30 +293,31 @@ function Row_Inserted($rsold, &$rsnew) {
 <CustomScript ScriptType="Server" ScriptCodeType="Table" ScriptName="Row_Updated" ScriptCtrlID="" ScriptL1Key="respuesta" ScriptL2Key="">
 <![CDATA[// Row Updated event 
 function Row_Updated($rsold, &$rsnew) {
-	//echo "Row Updated"; 
-	// si usuario es ejecutivo o jefe y la respuesta es "revisadoa por empleado"
-		if (CurrentUserLevel() =='3' && $rsold['estado_resp']=='2')  
+	/*  var_dump(CurrentUserLevel());  */
+	echo $this->estado_resp->CurrentValue;
+	die(); 
+		if (CurrentUserLevel() ==3 && $rsold['estado_resp']=='2')  
 		{                                            
 			if (!isset($conn)) $conn = ew_Connect();                                
 			  $sentencia = "UPDATE novedad SET estado_nov='4' WHERE (id_novedad='".$rsold['id_novedad']."')";              
 			$row = $conn->Execute($sentencia); 
 			$conn->Close();     
 		 }          
-		 if ( $this->estado_resp->CurrentValue =='4' && CurrentUserLevel() =='3' ) {
+		 if ( $this->estado_resp->CurrentValue =='4' && CurrentUserLevel() ==3 ) {
 				 if (!isset($conn)) $conn = ew_Connect();
 				  $sentencia = "UPDATE novedad SET estado_nov='4' WHERE (id_novedad='".$rsold['id_novedad']."')";
 				  $conn->Execute($sentencia); 
-				  $conn->Close();
+				  $conn->Close();      
 		 }
 		 // si el usuario es empleado y la respuesta es revisado por ejecutivo
-		 if (CurrentUserLevel() =='2' && $rsold['estado_resp']=='1')  
+		 if (CurrentUserLevel() ==2 && $rsold['estado_resp']=='1')  
 		{                                            
 			if (!isset($conn)) $conn = ew_Connect();            
 			$sentencia = "UPDATE novedad SET estado_nov='3' WHERE (id_novedad='".$rsold['id_novedad']."')";                        
 			$row = $conn->Execute($sentencia); 
 			$conn->Close();     
 		 }
-		 elseif (CurrentUserLevel() =='2' && $rsold['estado_resp']=='2') { 
+		 elseif (CurrentUserLevel() ==2 && $rsold['estado_resp']=='2') { 
 						 $rsnew['id_empleado'] = $rsold['id_empleado'];
 						 if (!isset($conn)) $conn = ew_Connect();            
 							$sentencia = "UPDATE novedad SET estado_nov='3' WHERE (id_novedad='".$rsold['id_novedad']."')";                        
@@ -324,10 +325,56 @@ function Row_Updated($rsold, &$rsnew) {
 							$conn->Close();
 		 }
 		 
-		 // si fue aprobada enviar correo
-		 if (CurrentUserLevel() =='3' && $rsold['estado_resp']=='3')  
+		 // si fue aprobada enviar correo 
+		 if (CurrentUserLevel() ==3 && $this->estado_resp->CurrentValue =='3')  
 		{                                            
-			 CurrentPage()->setSuccessMessage("Correo Enviadoal Alumno");
+			  if (!isset($conn)) $conn = ew_Connect();
+			  $sentencia = "SELECT novedad.id_afiliado as afil,
+			  representantes.email_repres as email,
+			  representantes.apell_repres as apel FROM
+			  respuesta
+			  Inner Join novedad ON respuesta.id_novedad = novedad.id_novedad
+			  Inner Join representantes ON novedad.id_afiliado = representantes.id_afiliado
+			  WHERE representantes.contact_d_repres = '1' AND
+			  representantes.st_repres = 'Activo'
+			  AND respuesta.id_respuesta = ".$this->id_respuesta->CurrentValue;
+			  echo $sentencia;
+			  die();
+			  $row = $conn->Execute($sentencia);
+			  $correo= $row->fields['email']; 
+			  if (!empty($correo)){
+			   $mail = new PHPMailer (true); 
+			   $mail->IsSMTP(); 
+			   try {      
+				  $mail->CharSet = "UTF-8"; //importante
+				  $mail -> AddAddress ( $row->fields['email'],'Ing.erick');
+				  $mail -> Subject = 'Test App de boca junior';
+				  $mail -> Body = 'Este es un correo en periodo de prueba aplicacion Boca Juniors';
+				  //De parte de quien es el correo
+				  $mail->SetFrom("bocajunior@gmail.com", "Notificacion");              
+				 //para indicar que el correo es html
+				  $mail -> IsHTML (true);   
+	  
+				  $mail->Host = 'ssl://smtp.gmail.com';
+				  $mail->Port = 465;//465;
+				  $mail->SMTPAuth = true;
+				  $mail->Username = 'mariagabriela3000@gmail.com';
+				  $mail->Password = '250781julio';
+				  $mail->Timeout=30;
+				  if(!$mail->Send()) {
+					  $emailnotificacion = "No se pudo enviar notificacion".$mail->ErrorInfo;
+				  }
+				  else {
+					   $emailnotificacion = "Salida Exito";
+				  }    
+			   } catch (phpmailerException $e) {        
+				 CurrentPage()->setMessage("Tipico ".$e->errorMessage()); //Errores de PhpMailer
+			   } 
+			   catch (Exception $e) {
+				 CurrentPage()->setMessage("cualquier cosa ".$e->getMessage()); //Errores de cualquier otra cosa.
+			   } 
+			   CurrentPage()->setSuccessMessage("Correo Enviado al Alumno");
+			  }
 		 }
 	 //die();
 }             
@@ -395,7 +442,7 @@ function Page_Render() {
 <CustomScript ScriptType="Server" ScriptCodeType="Table" ScriptName="Row_Inserted" ScriptCtrlID="" ScriptL1Key="notificacion" ScriptL2Key="">
 <![CDATA[// Row Inserted event
 function Row_Inserted($rsold, &$rsnew) { 
-	require_once('phpjs/mailer/class.phpmailer.php');  
+	//require_once('phpjs/mailer/class.phpmailer.php');  
 	if (!isset($conn)) $conn = ew_Connect();
 	$sentencia = "UPDATE afiliado SET st_notificado='".$rsnew['st_noti']."' WHERE (id_afiliado='".$rsnew['id_afiliado']."')"; 
 	CurrentPage()->setMessage("<strong><font color='red'>Registro de Afiliado: ".$rsnew['id_afiliado']." Actualizado</font></strong>"); 
@@ -410,9 +457,9 @@ $mail -> AddAddress ('elcorreodemarvin@gmail.com','Ing.erick');
 $mail -> Subject = 'Prueba de correo de la app de boca junior';
 $mail -> Body = 'Este es un correo html, ud recibio una notificacion para que pague, morrongo mala paga';
  //De parte de quien es el correo
-$mail->SetFrom("keymalerock@gmail.com", "se lo mando");              
+$mail->SetFrom("sistermagamedina@gmail.com", "se lo mando");              
 //para indicar que el correo es html
-
+				   
 $mail -> IsHTML (true);
 // si quieres agregar un encabeza personalizado
 // $mail->AddCustomHeader($headers);
@@ -424,7 +471,7 @@ $mail -> IsHTML (true);
 	$mail->Port = 465;//465;
 	$mail->SMTPAuth = true;
 	$mail->Username = 'mariagabriela3000@gmail.com';
-	$mail->Password = '90';
+	$mail->Password = '250781julio';
 	$mail->Timeout=30;
 	if(!$mail->Send()) {
 		$emailnotificacion = "No se pudo enviar notificacion".$mail->ErrorInfo;
@@ -448,7 +495,7 @@ CurrentPage()->setMessage("<strong><font color='red'>Mensaje de envio: ".$emailn
 <![CDATA[// Page Render event
 function Page_Render() {
 	//echo "Page Render"; 
-	die("hola");
+	//die("hola");
    if (CurrentUserLevel() =='2'  ) // si es el empleado no permite agregar novedad 
 	{                   
 	   //$this->estado_resp->Visible = TRUE; 
@@ -501,6 +548,55 @@ $(function(){
 	}            
 });                 
 			 
+]]>
+</CustomScript>
+<CustomScript ScriptType="Server" ScriptCodeType="Table" ScriptName="Row_Rendered" ScriptCtrlID="" ScriptL1Key="notificacion" ScriptL2Key="">
+<![CDATA[// Row Rendered event
+function Row_Rendered() {
+	// To view properties of field class, use:
+	//var_dump($this-><FieldName>); 
+	if ($this->PageID == "list" || $this->PageID == "view") { // List/View page only
+		if ($this->st_noti->CurrentValue >= 2) {  //si esta negativa
+			$this->st_noti->CellAttrs["style"] = "background-color: #ffcccc";
+		} elseif ($this->st_noti->CurrentValue == 6) {
+			$this->st_noti->CellAttrs["style"] = "background-color: #ffcc99";
+		} elseif ($this->st_noti->CurrentValue == 8) {
+			$this->st_noti->CellAttrs["style"] = "background-color: #ffccff";
+		}
+	}   
+}
+]]>
+</CustomScript>
+<CustomScript ScriptType="Server" ScriptCodeType="Table" ScriptName="Row_Rendered" ScriptCtrlID="" ScriptL1Key="novedad" ScriptL2Key="">
+<![CDATA[// Row Rendered event
+function Row_Rendered() {
+	// To view properties of field class, use:
+	//var_dump($this-><FieldName>);    
+		if ($this->PageID == "list" || $this->PageID == "view") { // List/View page only
+		if ($this->estado_nov->CurrentValue == 3) {  //si esta pendiente por revisar
+			$this->estado_nov->CellAttrs["style"] = "background-color: #ffcccc";
+		} elseif ($this->estado_nov->CurrentValue == 6) {
+			$this->estado_nov->CellAttrs["style"] = "background-color: #ffcc99";
+		} elseif ($this->estado_nov->CurrentValue == 8) {
+			$this->estado_nov->CellAttrs["style"] = "background-color: #ffccff";
+		}
+	}   
+}
+]]>
+</CustomScript>
+<CustomScript ScriptType="Server" ScriptCodeType="Table" ScriptName="Row_Rendered" ScriptCtrlID="" ScriptL1Key="respuesta" ScriptL2Key="">
+<![CDATA[// Row Rendered event
+function Row_Rendered() {
+	// To view properties of field class, use:
+	//var_dump($this-><FieldName>); 
+	if ($this->PageID == "list" || $this->PageID == "view") { // List/View page only
+		if ($this->estado_resp->CurrentValue == 1) {  //si esta revisada por el ejecutivo
+			$this->estado_resp->CellAttrs["style"] = "background-color: #ffcccc";
+		}
+	}
+	
+	
+}
 ]]>
 </CustomScript>
 
